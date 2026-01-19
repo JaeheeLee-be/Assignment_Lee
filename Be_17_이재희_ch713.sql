@@ -1,4 +1,4 @@
--- Cher 7 ~ 13
+-- Ch 7 ~ 13
 
 CREATE DATABASE fishbread_db;
 USE fishbread_db;
@@ -44,7 +44,7 @@ CREATE TABLE daily_sales(
     total_sales DECIMAL(10, 2) NOT NULL
 );
 
--- Cher14 ~ 20
+-- Ch 14 ~ 20
 
 -- CREATE DATABASE salary;
 USE salary;
